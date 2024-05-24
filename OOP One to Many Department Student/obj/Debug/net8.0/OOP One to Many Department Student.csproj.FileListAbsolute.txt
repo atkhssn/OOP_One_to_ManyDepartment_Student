@@ -1,0 +1,29 @@
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.exe
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.deps.json
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.runtimeconfig.json
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.dll
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.pdb
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.GeneratedMSBuildEditorConfig.editorconfig
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.AssemblyInfoInputs.cache
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.AssemblyInfo.cs
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.csproj.CoreCompileInputs.cache
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.dll
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\obj\Debug\net8.0\refint\OOP One to Many Department Student.dll
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.pdb
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.genruntimeconfig.cache
+F:\PencilBox\OOP One to Many Department Student\OOP One to Many Department Student\obj\Debug\net8.0\ref\OOP One to Many Department Student.dll
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.exe
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.deps.json
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.runtimeconfig.json
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.dll
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\bin\Debug\net8.0\OOP One to Many Department Student.pdb
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.AssemblyInfoInputs.cache
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.AssemblyInfo.cs
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.csproj.CoreCompileInputs.cache
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.sourcelink.json
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.dll
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\refint\OOP One to Many Department Student.dll
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.pdb
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\OOP One to Many Department Student.genruntimeconfig.cache
+F:\OOP_One_to_ManyDepartment_Student\OOP One to Many Department Student\obj\Debug\net8.0\ref\OOP One to Many Department Student.dll
